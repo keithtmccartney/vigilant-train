@@ -53,3 +53,9 @@ G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\bin\Debug\n
 G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\bin\Debug\netcoreapp3.1\vigilant-train.Web.pdb
+G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\obj\Debug\netcoreapp3.1\vigilant-train.Web.csproj.CoreCompileInputs.cache
+G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\obj\Debug\netcoreapp3.1\vigilant-train.Web.MvcApplicationPartsAssemblyInfo.cache
+G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\obj\Debug\netcoreapp3.1\vigilant-train.Web.dll
+G:\git\Source\Repos\vigilant-train\vigilant-train\vigilant-train.Web\obj\Debug\netcoreapp3.1\vigilant-train.Web.pdb
