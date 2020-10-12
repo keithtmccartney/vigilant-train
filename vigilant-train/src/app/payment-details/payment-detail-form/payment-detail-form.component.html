@@ -4,7 +4,7 @@
     <div class="form-group">
         <label>CARD OWNER NAME</label>
 
-        <input name="CardOwnerName" #CardOwnerName="ngModel" [(ngModel)]="service.formData.CardOwnerName" class="form-control form-control-lg" placeholder="Full Name" required[class.invalid]="CardOwnerName.invalid && CardOwnerName.touched">
+        <input name="CardOwnerName" #CardOwnerName="ngModel" [(ngModel)]="service.formData.CardOwnerName" class="form-control form-control-lg" placeholder="Full Name" required [class.invalid]="CardOwnerName.invalid && CardOwnerName.touched">
     </div>
 
     <div class="form-group">
