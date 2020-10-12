@@ -7,6 +7,8 @@ import { PaymentDetailFormComponent } from './payment-details/payment-detail-for
 
 import { HttpClientModule } from '@angular/common/http';
 
+import { FormsModule } from '@angular/forms';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -14,6 +16,7 @@ import { HttpClientModule } from '@angular/common/http';
     PaymentDetailFormComponent
   ],
   imports: [
+    FormsModule,
     HttpClientModule,
     BrowserModule
   ],
