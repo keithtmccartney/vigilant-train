@@ -28,4 +28,18 @@ export class PaymentDetailFormComponent implements OnInit {
       CVV: ''
     }
   }
+
+  onSubmit(form: NgForm) {
+    this.insertRecord(form);
+  }
+
+  insertRecord(form: NgForm) {
+    this.service.postPaymentDetail().subscribe(res => {
+      this.resetForm(form);
+      this.service.refreshList();
+    },
+    err => {
+      console.log(err);
+    })
+  }
 }
