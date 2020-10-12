@@ -9,7 +9,7 @@ Grab the article at [https://www.codaffection.com/asp-net-core-article/angular-c
 
 ## Errors Experienced
 
-* Abc;
+* Toastr package was initially not included within the tutorial and needed both adding to the project ("npm install ngx-toastr --save") and declaring within the constructor; on serving I was dealt with the following: "core.js:4352 ERROR NullInjectorError: R3InjectorError(AppModule)[ToastrService -> InjectionToken ToastConfig -> InjectionToken ToastConfig -> InjectionToken ToastConfig]: NullInjectorError: No provider for InjectionToken ToastConfig!";
 
 ## Notes:
 
